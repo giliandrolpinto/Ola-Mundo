@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório de Git e GitHub - Curso em Vídeo, Set. 2021.
+ Primeiro repositório de **Git e GitHub** - Curso em Vídeo, *Set*. 2021.
 
  Respositório criado durante uma aula ao vivo!
  
